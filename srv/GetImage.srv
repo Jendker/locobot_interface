@@ -1,0 +1,4 @@
+# Fetches current rgb image 480 * 640 * 3 or depth image 480 * 640
+
+---
+sensor_msgs/Image image

@@ -1,0 +1,10 @@
+# Commands base with position control
+
+float32 x
+float32 y
+float32 t
+bool relative
+bool close_loop
+bool smooth
+---
+bool success

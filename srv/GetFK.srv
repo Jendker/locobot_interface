@@ -1,0 +1,6 @@
+# get if the given grasp is obstructed or not 
+
+float32[] joint_positions
+---
+float32[] translation_rotation
+

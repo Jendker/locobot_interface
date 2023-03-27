@@ -1,0 +1,6 @@
+# Command gripper state (open/close)
+
+string command
+bool wait
+---
+bool result

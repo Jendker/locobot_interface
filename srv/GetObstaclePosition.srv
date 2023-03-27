@@ -1,0 +1,5 @@
+# Requests a reading of the closest position
+
+---
+float32 distance
+float32 angle

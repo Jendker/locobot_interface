@@ -1,0 +1,7 @@
+# Set pan-tilt angles for the camera
+
+float32 pan
+float32 tilt
+bool wait
+---
+bool success

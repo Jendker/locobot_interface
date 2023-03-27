@@ -1,0 +1,7 @@
+# get if the given grasp is obstructed or not 
+
+float32 x
+float32 y
+---
+bool is_obstructed
+

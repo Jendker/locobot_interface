@@ -1,0 +1,6 @@
+# Fetches current pointcloud
+
+bool in_cam
+bool filter_pts
+---
+float32[] pts

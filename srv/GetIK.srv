@@ -1,0 +1,7 @@
+# get if the given grasp is obstructed or not 
+
+float32[] position
+float32 pitch
+float32 roll
+---
+float32[] joint_positions

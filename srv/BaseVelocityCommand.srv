@@ -1,0 +1,8 @@
+# Commands base with velocity control
+
+float32 fwd_speed
+float32 turn_speed
+float32 exe_time
+bool more
+---
+bool success
